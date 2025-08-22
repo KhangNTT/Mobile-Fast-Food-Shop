@@ -1,6 +1,6 @@
 # PRM392-Fast-Food-Shop(Team Project)
 
-This project is a fast food shop application with a frontend Android application and a Node.js backend, including:  
+This is a group project simulating a **fast food ordering application**, including:  
 - **Frontend:** Android mobile app  
 - **Backend:** Node.js server with Stripe payment integration  
 
